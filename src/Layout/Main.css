@@ -1,0 +1,21 @@
+.d-active {
+    display: flex;
+    align-items: center;
+    background-color: rgb(250, 204, 21);
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px;
+    color: rgb(51, 65, 85);
+    margin-bottom: 6px;
+}
+
+.d-default {
+    display: flex;
+    align-items: center;
+    /* background-color: rgb(250, 204, 21); */
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 6px;
+}
